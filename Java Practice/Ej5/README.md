@@ -2,6 +2,8 @@
 ## Enunciado
 
 ![Diagrama de clases, ejercicio 5](https://github.com/utnfrrojava/javaClases/raw/master/enunciados/img/diagramaClases01.png)
+
+
 De acuerdo al diagrama de clases resolver:
 
 Cargar una lista de empleados (máximo 20) preguntado en cada uno si son administrativos o vendedores y cargar todos los datos respectivos.
