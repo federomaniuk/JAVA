@@ -80,7 +80,6 @@ public class Ej5 {
 		}
 		
 		// System.out.println(empleados[0].getNombre());
-		// System.out.println(empleados[1].getNombre());
 	}
 
 	private static double getSueldo(Vendedor vendedor) {
